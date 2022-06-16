@@ -81,7 +81,7 @@ Fig adds apps, shortcuts, and autocomplete to your existing terminal.
 
 Install Zsh Syntax Highlighting in just one click.
 
-<a href="https://fig.io/plugins/other/zsh-syntax-highlighting" target="_blank"><img src="https://fig.io/badges/install-with-fig.svg" /></a>
+<a href="https://fig.io/plugins/other/zsh-syntax-highlighting" target="_blank"><img src="https://user-images.githubusercontent.com/4949076/173981934-c38e56a1-e668-4545-b082-79389233f44e.svg" /></a>
 
 #### [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 
